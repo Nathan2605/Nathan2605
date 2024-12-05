@@ -1,5 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEPgoHBoeaAlA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731547526318?e=1738800000&v=beta&t=eWRIAj8E
-
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEPgoHBoeaAlA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731547526318?e=1738800000&v=beta&t=eWRIAj8Eim0D-MIqax5zXWFLby2NPAVKotObjCWm7Gw)](https://rishavchanda.io)
 # 💫 About Me:
 👋 Bonjour! I am a Data Scientist and Industrial Engineer from France, passionate about continuous improvement and exploring new frontiers, now building my professional journey from Mexico.<br><br>🚀 My experience ranges from optimizing industrial processes to developing machine learning models that create measurable impact. With a focus on optimization and predictive analytics, my goal is to transform complex data into clear answers to real-world questions.<br><br>🌍 As a global professional, I enjoy tackling complex problems and collaborating on challenging projects that deliver real value. Do you have an exciting challenge? Let’s connect and create something extraordinary together.<br><br>📫 Reach out here nathan.harroch06@gmail.com!
 
