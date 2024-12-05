@@ -2,6 +2,8 @@
 # 💫 About Me:
 👋 Bonjour! I am a Data Scientist and Industrial Engineer from France, passionate about continuous improvement and exploring new frontiers, now building my professional journey from Mexico.<br><br>🚀 My experience ranges from optimizing industrial processes to developing machine learning models that create measurable impact. With a focus on optimization and predictive analytics, my goal is to transform complex data into clear answers to real-world questions.<br><br>🌍 As a global professional, I enjoy tackling complex problems and collaborating on challenging projects that deliver real value. Do you have an exciting challenge? Let’s connect and create something extraordinary together.<br><br>📫 Reach out here nathan.harroch06@gmail.com!
 
+<!-- GIF aligned to the right -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nathan-harroch-b11590196/) 
@@ -35,3 +37,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan2605&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
